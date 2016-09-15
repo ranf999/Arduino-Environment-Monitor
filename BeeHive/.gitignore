@@ -1,0 +1,48 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Vim
+.*.swp
+
+# Mac
+*.DS_Store
+
+# My Eclipse
+*.classpath
+*.mymetadata	
+*.settings
+*.project
+*.settings*
+*.class
+
+# Tests
+*test*
+
+# conf.xml
+*conf.xml
